@@ -1,0 +1,6 @@
+.env
+.venv/
+dataset.csv
+*.zip
+__pycache__/
+results/
